@@ -34,9 +34,8 @@ body{
   /*Req 1*/
   font-family: 'Andika', sans-serif;
   background-color: #DDDDDD;
-  background-image: url('images/pigeon-background.JPEG');
+  background-image: url('../images/pigeon-background.JPEG');
   background-repeat: no-repeat;
-  background-size: cover;
 }
 
 h1{
@@ -44,14 +43,19 @@ h1{
   font-size: 2em;
 
   /*Req 2*/
+  text-align: center;
+  line-height: 2 ;
 }
 
 p{
   /*Req 3*/
+  padding-top: 15px;
 }
 
 a{
   /*Req 4*/
+  font-size: 16px;
+  
 }
 
 /*Req 5*/
