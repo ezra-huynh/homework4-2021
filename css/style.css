@@ -150,5 +150,8 @@ footer{
   text-align:center;
   color: #FFFFFF;
   min-height: 75px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }
 
